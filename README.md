@@ -79,7 +79,7 @@ Sơ đồ kết nối chi tiết giữa **JDY-33** và **MSP430G2553**:
 - Kết nối JDY-33 với tên đã đặt trước đó
 - Gửi / nhận dữ liệu
 
-### ▶️ Demo: Chạy code ví dụ (`main.cpp`)
+### ▶️ Demo: Chạy code ví dụ (`src/main.c`)
 
 - MSP430 gửi chuỗi định kỳ mỗi 1–2 giây
 - Nhận ký tự từ app để điều khiển LED
