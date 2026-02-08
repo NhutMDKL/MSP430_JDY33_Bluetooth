@@ -82,6 +82,6 @@ Sơ đồ kết nối chi tiết giữa **JDY-33** và **MSP430G2553**:
 - Nhận ký tự từ app để điều khiển LED
 
 🔗 Link clip demo code:  
-**[link video demo main.cpp]**
+![demo](Demo_MSP430_JDY33.gif)
 
 ---
