@@ -80,6 +80,8 @@ Sơ đồ kết nối chi tiết giữa **JDY-33** và **MSP430G2553**:
 
 - MSP430 gửi chuỗi định kỳ mỗi 1–2 giây
 - Nhận ký tự từ app để điều khiển LED
+    - Bật LED khi nhận 'H' hoặc 'h' từ ứng dụng
+    - Tắt LED khi nhận 'L' hoặc 'l' từ ứng dụng
 
 🔗 Link clip demo code:  
 ![demo](Demo_MSP430_JDY33.gif)
