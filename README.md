@@ -42,15 +42,12 @@ Thư viện tập trung vào **truyền nhận dữ liệu UART ổn định**, 
 
 Sơ đồ kết nối chi tiết giữa **JDY-33** và **MSP430G2553**:
 
-🔗 Link ảnh sơ đồ kết nối:  
-**[link ảnh sơ đồ]**
-
 ### Mapping chân cơ bản
 
 | JDY-33 | MSP430G2553 |
 |------|------------|
-| TXD | RX (UART) |
-| RXD | TX (UART) |
+| TXD | RX (P1.1) |
+| RXD | TX (P1.2) |
 | VCC | 3.3V |
 | GND | GND |
 
